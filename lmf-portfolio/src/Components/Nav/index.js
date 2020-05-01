@@ -5,7 +5,7 @@ function Nav() {
 
   return (
       <div className="header" role="navigation">
-      <h1 className="name">Lindsay Field</h1>
+      <h1 className="name">LMF</h1>
         <ul className="nav navbar-expand-md justify-content-end">
       <li className="nav-item">
         <a className="nav-link" href="/about">About</a>

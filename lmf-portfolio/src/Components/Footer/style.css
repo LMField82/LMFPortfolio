@@ -1,6 +1,6 @@
 .footer {
     background-color: #495057;
-    padding: 15px; 
+    padding: 10px; 
   }
   
   li {
@@ -9,8 +9,17 @@
   
   .copy {
     padding-top: 11px;
+    font-family: 'Corlombus', serif;
+    font-size: larger;
+    font-weight: 500;
+    color: lavender;
   }
   
+ .copyright-text {
+     margin-left: -65%;
+
+}
+
   .social-icons
   {
     padding-left:0;
@@ -62,6 +71,7 @@
   }
   
   .footer-icons {
-    margin-left: 80%;
+    margin-left: 16%;
     height: 45px;
+    
   }
