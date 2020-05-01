@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import "../styles/about.css";
+import "../Components/Card/index";
 import ReactCardFlip from 'react-card-flip';
 
 const About = () => {
