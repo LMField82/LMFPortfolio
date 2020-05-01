@@ -1,0 +1,23 @@
+.header {
+    padding-top: 8px;
+    padding-bottom: 8px;
+    margin-bottom: 40px;
+  }
+  .name {
+    color: #495057;
+    float: left;
+    padding-left: 10px;
+    font-family: 'Pacifico', cursive;
+    /* font-family: 'Press Start 2P', cursive; */
+  
+  }
+  
+  .nav-link {
+    color: #495057;
+    padding-top: 15px;
+  }
+  
+  .nav-link:hover {
+    color: lightseagreen;
+    font-size: 18px;
+  }
