@@ -1,5 +1,5 @@
 import React from 'react';
-import "../styles/projects.css";
+import "./style.css";
 // import { Container, Row, Col } from "./Layout"
 
 function ProjectCard(props) {

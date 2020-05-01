@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import ProjectCard from "../components/ProjectCards";
+import ProjectCard from "../Components/ProjectCards/index";
 import cards from "../cards.json";
 
  

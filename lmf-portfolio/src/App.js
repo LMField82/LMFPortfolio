@@ -2,6 +2,7 @@ import React from 'react';
 import Nav from './Components/Nav';
 import Footer from './Components/Footer';
 import About from './Pages/about';
+import Projects from './Pages/projects';
 // import logo from './logo.svg';
 import './App.css';
 
@@ -11,6 +12,7 @@ function App() {
     <div className="App">
       <Nav />
       <About />
+      <Projects />
       <Footer />
     </div>
   );
