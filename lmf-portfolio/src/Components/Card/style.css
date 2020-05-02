@@ -52,6 +52,11 @@
     margin-top: 45px;
   }
 
+  .card-title {
+      font-family: 'Corlombus', serif;
+      padding-top: 10px;
+  }
+
   .front {
     position: absolute;
     width: 100%;
