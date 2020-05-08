@@ -1,0 +1,50 @@
+[
+    {
+        "id": 0,
+        "image": "images/Quarantivities.png",
+        "title": "Quarantivities",
+        "text": "Activities to do while you are stuck at home.",
+        "btnText": "Do It!",
+        "link": "https://rocky-inlet-27187.herokuapp.com/"
+    },
+    {
+        "id": 1,
+        "image": "images/UniqueEats.png",
+        "title": "Unique Eats",
+        "text": "Discover a new international cuisine near you.",
+        "btnText": "Eat It!",
+        "link": "https://lmfield82.github.io/UniqueEats/"
+    },
+    {
+        "id": 2,
+        "image": "images/YourNextBinge.png",
+        "title": "Your Next Binge",
+        "text": "Leave reviews for your favorite books & movies",
+        "btnText": "Binge It!",
+        "link": "https://hidden-beyond-22000.herokuapp.com/"
+    },
+    {
+        "id": 3,
+        "image": "images/DayPlanner.png",
+        "title": "Workday Planner",
+        "text": "Use this planner to schedule out your 9am - 5pm workday.",
+        "btnText": "Plan It!",
+        "link": "https://lmfield82.github.io/DayPlannerHW5/"
+    },
+    {
+        "id": 4,
+        "image": "images/TeamGenerator.gif",
+        "title": "Team Generator",
+        "text": "Create your team of managers, engineers, and interns.",
+        "btnText": "Make It!",
+        "link": "https://github.com/LMField82/TeamGenerator"
+    },
+    {
+        "id": 5,
+        "image": "images/ExpressNoteTaker.png",
+        "title": "Note Taker",
+        "text": "Write, save, and delete notes in your browser.",
+        "btnText": "Note It!",
+        "link": "https://whispering-plateau-75223.herokuapp.com/"
+    }
+]
