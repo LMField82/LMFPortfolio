@@ -8,7 +8,7 @@ function Nav() {
       <h1 className="name">LMF</h1>
         <ul className="nav navbar-expand-md justify-content-end">
       <li className="nav-item">
-        <a className="nav-link" href="/about">About</a>
+        <a className="nav-link" href="/">About</a>
       </li>
       <li className="nav-item">
         <a className="nav-link" href="/projects">Projects</a>
