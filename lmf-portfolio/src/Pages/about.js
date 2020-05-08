@@ -17,7 +17,7 @@ const About = () => {
                     <div className="card-body">
                         <img src="images/Lindsay.jpeg" className="card-img-top profile" alt="Lindsay Field" />
                         <h4 className="card-title card-title-front">Hi, I'm Lindsay!</h4>
-                        <p className="card-text">I recently graduated from a full-stack coding bootcamp through the University of Denver. I learned skills in HTML, CSS, JavaScript, SQL, MongoDB, React, Git, and more. See my full Story below.</p>
+                        <p className="card-text">I recently graduated from a full-stack coding bootcamp through the University of Denver. I learned skills in HTML, CSS, JavaScript, SQL, MongoDB, Node.js, React, Git, and more. See my full Story below.</p>
                         <button onClick={handleClick}>About Me</button>
                     </div>
                 </div>
